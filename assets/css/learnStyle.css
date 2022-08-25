@@ -1,0 +1,16 @@
+/* Selector */
+/* 1. CSS Selector: tag html, id, class */
+/* 2. CSS Combinators: descendant selector (space), child (>), adjacent sibling (+), general sibling (~) */
+/* 3. Pseudo-class selector -> ::before, ::after, :hover, :active, :focus, dll */
+/* 4. Pseudo-element selector -> h1, div, a, dll */
+
+h1 {
+    color: red;
+    font-family: sans-serif;
+}
+
+#heading2 {
+    color: blue;
+    font-weight: 800;
+    background-color: antiquewhite;
+}
